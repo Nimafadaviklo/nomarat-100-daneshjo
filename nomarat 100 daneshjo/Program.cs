@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Data.Common;
 using System.Threading.Channels;
-
+نیما فدوی پروژه ۷
 List<student> students = new List<student>();
 
 StreamReader reader = new StreamReader(@"C:\\Users\\persian\\Desktop\stuuuuuuu.txt");
