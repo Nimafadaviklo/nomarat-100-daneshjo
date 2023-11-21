@@ -4,7 +4,7 @@ using System.Threading.Channels;
 نیما فدوی پروژه ۷
 List<student> students = new List<student>();
 
-StreamReader reader = new StreamReader(@"C:\\Users\\persian\\Desktop\stuuuuuuu.txt");
+StreamReader reader = new StreamReader(@"C:\\Users\\persian\\Desktop\stuuuuuuuu.txt");
 
 
 
